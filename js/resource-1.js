@@ -1,1 +1,0 @@
-getOrientation = function(){ return 'portrait'; };
